@@ -1,0 +1,15 @@
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\bin\Debug\netcoreapp3.1\Task1NIX.exe
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\bin\Debug\netcoreapp3.1\Task1NIX.deps.json
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\bin\Debug\netcoreapp3.1\Task1NIX.runtimeconfig.json
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\bin\Debug\netcoreapp3.1\Task1NIX.runtimeconfig.dev.json
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\bin\Debug\netcoreapp3.1\Task1NIX.dll
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\bin\Debug\netcoreapp3.1\Task1NIX.pdb
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\bin\Debug\netcoreapp3.1\LibraryNix1.dll
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\obj\Debug\netcoreapp3.1\Task1NIX.csprojAssemblyReference.cache
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\obj\Debug\netcoreapp3.1\Task1NIX.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\obj\Debug\netcoreapp3.1\Task1NIX.AssemblyInfo.cs
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\obj\Debug\netcoreapp3.1\Task1NIX.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\obj\Debug\netcoreapp3.1\Task1NIX.csproj.CopyComplete
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\obj\Debug\netcoreapp3.1\Task1NIX.dll
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\obj\Debug\netcoreapp3.1\Task1NIX.pdb
+C:\Users\Yura\source\repos\Task1NIX\Task1NIX\obj\Debug\netcoreapp3.1\Task1NIX.genruntimeconfig.cache
